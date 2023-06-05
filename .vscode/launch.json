@@ -1,0 +1,28 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "LoginScreen",
+            "request": "launch",
+            "mainClass": "assets.js.LoginScreen",
+            "projectName": "Nova pasta_65d2d468"
+        },
+        {
+            "type": "java",
+            "name": "LoginScreen",
+            "request": "launch",
+            "mainClass": "assets.js.LoginScreen",
+            "projectName": "biblioteca_a6ce3573"
+        },
+        {
+            "type": "msedge",
+            "request": "launch",
+            "name": "Open main.html",
+            "file": "c:\\Users\\diego\\OneDrive\\Área de Trabalho\\biblioteca\\main.html"
+        }
+    ]
+}
