@@ -9,6 +9,13 @@
             "name": "LoginScreen",
             "request": "launch",
             "mainClass": "assets.js.LoginScreen",
+            "projectName": "a_8a26d815"
+        },
+        {
+            "type": "java",
+            "name": "LoginScreen",
+            "request": "launch",
+            "mainClass": "assets.js.LoginScreen",
             "projectName": "Nova pasta_65d2d468"
         },
         {
